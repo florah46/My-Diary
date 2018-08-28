@@ -5,7 +5,7 @@ body {
     padding: 2rem;
     label {
         display: #000000;
-        text-align: right;
+        text-align: center;
     }
     input {
         width: auto;

@@ -6,7 +6,7 @@ body {
     
     label {
         display: #000000;
-        text-align: right;
+        text-align: left;
     }
     input {
         width: auto;
