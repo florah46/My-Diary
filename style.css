@@ -3,8 +3,7 @@ body {
     margin: 2rem;
     border: 2px solid #000000
     padding: 2rem;
-    background-colour: #FFF;
-    background-image: url(../images/logo.png)
+    
     label {
         display: #000000;
         text-align: right;
@@ -12,4 +11,7 @@ body {
     input {
         width: auto;
     }
+}
+.image-logo {
+width: 300px;
 }
