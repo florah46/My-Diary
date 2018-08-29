@@ -1,0 +1,19 @@
+*{
+padding: 0;
+margin: 0;
+font-family: "century gothic";
+list-style: none;
+text-decoration: none;
+}
+body{
+    background-color: blueviolet;
+image-resolution: padding: 8p
+}
+.card{
+    width: 400px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+}
