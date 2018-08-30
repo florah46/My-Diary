@@ -4,7 +4,9 @@ body {
     margin: 2rem;
     border: 2px solid #000000
     padding: 2rem;
-    text-align: center;
+    text-align {
+        center
+    }
 }
     .form {
         display: #000000;

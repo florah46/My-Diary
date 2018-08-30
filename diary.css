@@ -2,13 +2,15 @@
     margin: 0;
     padding: 0;
 }
-
-.topnav {
-    background-color: black;
-    overflow: hidden;
+body {
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
 }
+
     
-   .topnav a {
+   .topnav li {
+       display: inline-block;
     float: left;
     text-align: center;
     padding: 14px 16px;
