@@ -1,0 +1,83 @@
+
+body {
+    background-color: darksalmon;
+    
+}
+
+.header {
+    position: fixed;
+    
+    left:0;
+    width: 100%;
+    height: 50px;
+    font-size: 10px;
+}
+.topnav {
+    background-color: darkslategrey;
+    overflow: hidden;
+    height: 40px;
+    
+}
+.topnav h1 {
+font-size: px;
+padding-left: 4px;
+margin: 6px 6px 0px 70px;
+
+}
+.topnav a {
+    text-decoration: none;
+    color: blanchedalmond;
+    padding: 0px 5px 5px 5px;
+    font-size: 15px;
+    
+
+}
+.topnav ul {
+
+    list-style: none;
+    float: right;
+    position: relative;
+    overflow: auto;
+    height: 30px;
+
+    
+}
+.topnav ul li {
+    display: inline;
+    overflow: auto;
+    position: relative;
+}
+.form-diary {
+width: 800px;
+border: 1px solid #333;
+position: absolute;
+margin-top: 120px;
+background-color: darkgrey;
+
+}
+.form-diary input {
+    border-radius: 5px;
+    border-color: #333;
+    width: 700px;
+    margin: 10px;
+    height: 30px;
+}
+.form-diary textarea {
+    border-radius: 5px;
+    border-color: #333;
+    width: 700px;
+   height: 100px;
+    margin: 10px;
+}
+    .form-diary button {
+        border-radius: 5px;
+        border-color: #333;
+       background-color: blanchedalmond;
+        margin: 10px;
+    }
+    .img {
+        float: right;
+        margin-right: 40px;
+        margin-top: 60px;
+
+    }

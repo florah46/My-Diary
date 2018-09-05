@@ -1,0 +1,26 @@
+
+
+
+body {
+background-image: url(image/logo.png);
+height: 100vh;
+background-size: cover;
+background-position: center;
+
+
+
+    background-color: darksalmon;
+    width: 250px;
+  
+    padding: 2rem;
+    text-align: center;
+
+}
+.boxed {
+    background-color: darkgray;
+    margin: 1px solid black;
+    padding: 2rem;
+    position: absolute;
+    top: 20%;
+    left: 60%;;
+}
